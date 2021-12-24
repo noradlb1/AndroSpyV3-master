@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="msbuild">C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\MSBuild.exe</string>
+  <string name="zipalign">C:\Users\MONSTERMC\Desktop\AndroSpy-master\Server\SV\bin\Debug\bulidER\build-tools_r30-rc1-windows\android-R\zipalign.exe</string>
+  <string name="jarsigner">C:\Users\MONSTERMC\Desktop\AndroSpy-master\Server\SV\bin\Debug\bulidER\java-se-8u41-ri\java-se-8u41-ri\bin\jarsigner.exe</string>
+  <string name="notify_victim">C:\Users\MONSTERMC\Desktop\AndroSpy-master\Server\SV\bin\Debug\sound.wav</string>
+  <string name="notify_call">1</string>
+  <string name="notify_sms">1</string>
+  <string name="imhere">1</string>
+</resources>
